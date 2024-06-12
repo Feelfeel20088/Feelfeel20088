@@ -1,7 +1,6 @@
 - Hi, I’m @Feelfeel20088
-- I’m interested in cyber security.
-- I’m currently learning conputer programming I.
-- I’m looking to collaborate on anything related to python and Security projects.
+- I’m currently learning C and C++.
+- I’m looking to collaborate on anything related to javascript and python
 
 
 <!---
