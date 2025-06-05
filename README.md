@@ -1,4 +1,6 @@
-I like Rust, Python, and reverse-engineering free APIs.
+Casual systems programmer / DevOps engineer who enjoys building, breaking, and fixing things. I mostly work with Rust, Python, and do a fair bit of reverse-engineering public APIs.
+
+Open to working on literally anything.
 
 All public repos owned by me are GPLv3+ unless otherwise noted
 
