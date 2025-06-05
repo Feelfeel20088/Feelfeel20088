@@ -17,7 +17,6 @@ I run:
 ![K3s](https://img.shields.io/badge/K3s-F9A03C?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 Stuff I work with:
-**Stuff I work with:**
 
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
