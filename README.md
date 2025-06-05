@@ -7,7 +7,7 @@ All public repos owned by me are GPLv3+ unless otherwise noted
 
 Find me on:
 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/feelfeel2008)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/FEELFEEL2008)
 
 I run:
 
