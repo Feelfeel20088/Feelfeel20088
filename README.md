@@ -1,4 +1,4 @@
-I write code sometimes.
+I like Rust, Python, and reverse-engineering free APIs.
 
 All public repos owned by me are GPLv3+ unless otherwise noted
 
