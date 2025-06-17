@@ -1,4 +1,4 @@
-Casual systems programmer / DevOps engineer who enjoys building very funny things. I mostly work with Rust, Python, and do a fair bit of reverse-engineering public APIs.
+I'm a systems programmer and DevOps engineer who enjoys building absurdly fun projects. I primarily work with Rust and Python, but I'm learning C++ so I don't get annihilated in college.
 
 Open to working on literally anything.
 
