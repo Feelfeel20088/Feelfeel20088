@@ -1,4 +1,4 @@
-I'm a systems programmer and DevOps engineer who enjoys building absurdly fun projects. I primarily work with Rust and Python, but I'm learning C++ so I don't get annihilated in college.
+I'm a systems programmer and DevOps engineer who enjoys building funny projects. I primarily work with Rust and Python, but I'm learning C++ so I don't get annihilated in college.
 
 Open to working on literally anything.
 
